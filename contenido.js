@@ -21,7 +21,7 @@ window.CONTENIDO = {
   sitio: {
     nombre: "Bio-X",
     evento: "Olimpiadas STEM+ Cochabamba 2026",
-    colegio: "Nombre del colegio",              // ✏️ EDITAR
+    colegio: "Esclavas del Sagrado Corazón de Jesús",
     descripcionSEO: "Bio-X: bioplástico biodegradable a base de cáscaras de papa y plátano, proyecto de las Olimpiadas STEM+ Cochabamba 2026."
   },
 

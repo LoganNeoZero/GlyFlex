@@ -64,7 +64,7 @@
   document.getElementById("inicio").appendChild(el("div", { "class": "hero-in" }, [
     el("div", { "class": "hero-logos" }, [
       img("logo.webp", "Logo Bio-X", "logo", 160, 202),
-      img("escudo.webp", "Escudo del colegio", "escudo", 110, 112)
+      img("escudo.webp", "Escudo del colegio", "escudo", 160, 202)
     ]),
     el("div", { "class": "hero-txt" }, [
       el("p", { "class": "badge", text: C.sitio.evento }),
