@@ -185,6 +185,7 @@ window.CONTENIDO = {
       { nombre: "Integrante 1", rol: "Rol / curso", imagen: "" },
       { nombre: "Integrante 2", rol: "Rol / curso", imagen: "" },
       { nombre: "Integrante 3", rol: "Rol / curso", imagen: "" }
+	  { nombre: "Integrante 4", rol: "Rol / curso", imagen: "" }
     ],
     galeriaTitulo: "Galería",
     galeria: [         // Agrega más fotos copiándolas en img/ y sumando una línea
