@@ -2,6 +2,8 @@
 
 Sitio estático (HTML + CSS + JavaScript puro). Sin base de datos, sin instalar nada, sin compilar.
 
+**Manual detallado para agregar fotos y actualizar textos:** [MANUAL-CONTENIDO.md](MANUAL-CONTENIDO.md).
+
 ## ¿Qué archivo modifico?
 
 | Quiero cambiar…                         | Archivo                     |
