@@ -64,10 +64,10 @@ window.CONTENIDO = {
 
     /* Las 4 pruebas del encabezado (fotos de cada muestra) */
     pruebas: [
-      { titulo: "Prueba 1", imagen: "" },
-      { titulo: "Prueba 2", imagen: "" },
-      { titulo: "Prueba 3", imagen: "" },
-      { titulo: "Prueba 4", imagen: "" }
+      { titulo: "Prueba 1", imagen: "Prueba 1.jpg" },
+      { titulo: "Prueba 2", imagen: "Prueba 2.jpg" },
+      { titulo: "Prueba 3", imagen: "Prueba 3.jpg" },
+      { titulo: "Prueba 4", imagen: "Prueba 4.jpg" }
     ],
 
     queEs: {
