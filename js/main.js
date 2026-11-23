@@ -208,7 +208,7 @@
 
   /* ---------- pie ---------- */
   document.getElementById("footer").appendChild(wrap([
-    img("logo.webp", "Logo Bio-X", "logo", 160, 202),
+    img("logo.webp", "Logo Bio-X", "logo", 56, 57),
     el("p", {}, [el("strong", { text: C.sitio.nombre + " · " }), document.createTextNode(C.sitio.evento + " · " + C.sitio.colegio)]),
     el("p", { "class": "peq", text: "Cuidar la Tierra no es una opción, es una responsabilidad." })
   ]));
