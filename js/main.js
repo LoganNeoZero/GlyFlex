@@ -138,7 +138,7 @@
         img(E.imagenLaboratorio, E.imagenLaboratorioAlt, "round", 740, 494)
       ])
     ]),
-    el("div", { "class": "centro reveal" }, [el("a", { "class": "btn primary", href: "#proceso", text: E.botonProceso })]),
+    //el("div", { "class": "centro reveal" }, [el("a", { "class": "btn primary", href: "#proceso", text: E.botonProceso })]),
     el("h3", { "class": "h3c reveal", id: "proceso", text: E.procesoTitulo }),
     el("ol", { "class": "pasos" }, E.pasos.map(function (p, i) {
       return el("li", { "class": "paso reveal" }, [

@@ -92,7 +92,7 @@ window.CONTENIDO = {
 
     innovacion: {
       titulo: "¿Qué de innovador tiene?",
-      imagen: "",                         // ✏️ EDITAR: foto de nuestro prototipo, ej. "prototipo.jpg"
+      imagen: "Prototipo.jpg",                         // ✏️ EDITAR: foto de nuestro prototipo, ej. "prototipo.jpg"
       imagenAlt: "Foto de nuestro prototipo",
       parrafos: [
         "La innovación del proyecto no se limita a crear bolsas para el mercado. El prototipo busca desarrollar un bioplástico biodegradable, ya que está hecho a base de residuos orgánicos comunes, que pueda utilizarse en diferentes productos cotidianos.",
@@ -115,7 +115,7 @@ window.CONTENIDO = {
     imagenMaterialesAlt: "Materiales utilizados: vinagre, maicena y glicerina",
     imagenLaboratorio: "laboratorio.webp",
     imagenLaboratorioAlt: "Material de laboratorio",
-    botonProceso: "Ve paso a paso cómo lo hacemos",
+    /* botonProceso: "Ve paso a paso cómo lo hacemos", */
 
     procesoTitulo: "Proceso",
     /* ✏️ EDITAR: ajusta cada paso a lo que realmente hicieron y agrega cantidades/fotos */
@@ -184,8 +184,8 @@ window.CONTENIDO = {
     integrantes: [     // ✏️ EDITAR: nombres y fotos (imagen: "nombre.jpg")
       { nombre: "Matias Vargas", rol: "4to A Secundaria", imagen: "Matias.jpg" },
       { nombre: "Nayara Ramirez", rol: "4to A Secundaria", imagen: "Nayara.jpg" },
-      { nombre: "Integrante 3", rol: "4to A Secundaria", imagen: "" },
-      { nombre: "Integrante 4", rol: "4to A Secundaria", imagen: "" },
+      { nombre: "Isabella Pozo", rol: "4to A Secundaria", imagen: "Isabella.jpg" },
+      { nombre: "Maria Peredo", rol: "4to A Secundaria", imagen: "Maria.jpg" },
       { nombre: "Ing. Ivette", rol: "Tutora", imagen: "Ivette.jpg" }
     ],
     galeriaTitulo: "Galería",
