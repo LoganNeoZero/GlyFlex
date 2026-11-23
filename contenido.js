@@ -120,12 +120,12 @@ window.CONTENIDO = {
     procesoTitulo: "Proceso",
     /* ✏️ EDITAR: ajusta cada paso a lo que realmente hicieron y agrega cantidades/fotos */
     pasos: [
-      { titulo: "Paso 1", texto: "Lavar y pelar las papas y los plátanos; reservar las cáscaras.", imagen: "" },
-      { titulo: "Paso 2", texto: "Cocer las cáscaras en agua y triturarlas para extraer el almidón.", imagen: "" },
-      { titulo: "Paso 3", texto: "Filtrar la mezcla y dejar reposar hasta separar el almidón del líquido.", imagen: "" },
-      { titulo: "Paso 4", texto: "Mezclar el almidón con agua, maicena, vinagre y glicerina en las proporciones de la receta.", imagen: "" },
-      { titulo: "Paso 5", texto: "Calentar a fuego bajo, removiendo, hasta que la mezcla espese y se vuelva translúcida.", imagen: "" },
-      { titulo: "Paso 6", texto: "Extender en una superficie lisa y dejar secar hasta formar la película de bioplástico.", imagen: "" }
+      { titulo: "Paso 1", texto: "Lavar y pelar las papas y los plátanos; reservar las cáscaras.", imagen: "Lavar las cascaras.jpg" },
+      { titulo: "Paso 2", texto: "Cocer las cáscaras en agua y triturarlas para extraer el almidón.", imagen: "Triturar las cascaras.jpg" },
+      { titulo: "Paso 3", texto: "Filtrar la mezcla y dejar reposar hasta separar el almidón del líquido.", imagen: "Doble imagen.jpg" },
+      { titulo: "Paso 4", texto: "Mezclar el almidón con agua, maicena, vinagre y glicerina en las proporciones de la receta.", imagen: "Mezclar.jpg" },
+      { titulo: "Paso 5", texto: "Calentar a fuego bajo, removiendo, hasta que la mezcla espese y se vuelva translúcida.", imagen: "Calentar.jpg" },
+      { titulo: "Paso 6", texto: "Extender en una superficie lisa y dejar secar hasta formar la película de bioplástico.", imagen: "Dejar secar 1.jpg" }
     ]
   },
 
@@ -182,10 +182,11 @@ window.CONTENIDO = {
     titulo: "¿Quiénes somos?",
     texto: "Somos estudiantes comprometidos con el cuidado del medio ambiente. Participamos en las Olimpiadas STEM+ Cochabamba 2026 con Bio-X, un bioplástico hecho con residuos orgánicos.", // ✏️ EDITAR
     integrantes: [     // ✏️ EDITAR: nombres y fotos (imagen: "nombre.jpg")
-      { nombre: "Integrante 1", rol: "Rol / curso", imagen: "" },
-      { nombre: "Integrante 2", rol: "Rol / curso", imagen: "" },
-      { nombre: "Integrante 3", rol: "Rol / curso", imagen: "" },
-      { nombre: "Integrante 4", rol: "Rol / curso", imagen: "" }
+      { nombre: "Matias Vargas", rol: "4to A Secundaria", imagen: "Matias.jpg" },
+      { nombre: "Nayara Ramirez", rol: "4to A Secundaria", imagen: "Nayara.jpg" },
+      { nombre: "Integrante 3", rol: "4to A Secundaria", imagen: "" },
+      { nombre: "Integrante 4", rol: "4to A Secundaria", imagen: "" },
+      { nombre: "Ing. Ivette", rol: "Tutora", imagen: "Ivette.jpg" }
     ],
     galeriaTitulo: "Galería",
     galeria: [         // Agrega más fotos copiándolas en img/ y sumando una línea
