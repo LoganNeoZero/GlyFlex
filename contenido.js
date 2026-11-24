@@ -153,7 +153,7 @@ window.CONTENIDO = {
     /* ✏️ EDITAR: describe el resultado real de cada prueba */
     resultados: [
       { titulo: "Prueba Gelatina como sustituto de la Glicerina", texto: "Pudimos observar que la mezcla tomó un color rojizo debido a la coloración de la propia gelatina. También observamos que la mezcla no se plastificó correctamente; por lo tanto, determinamos que la glicerina no tiene un sustituto viable." },
-      { titulo: "Prueba Maicena", texto: "Describe aquí la consistencia obtenida." },
+      { titulo: "Prueba Con cáscaras de plátano", texto: "Se pudo observar que las fibras presentes en la propia cáscara de plátano proporcionaban mayor resistencia a las roturas, pero, al mismo tiempo, disminuían la resistencia a los jalones (resistencia elástica). También se observó que la coloración del bioplástico era poco agradable a la vista, un aspecto que actualmente se encuentra en proceso de mejoramiento." },
       { titulo: "Prueba Mayor cantidad de vinagre", texto: "Observamos que una cantidad mayor de vinagre produce un olor muy característico del vinagre, el cual resulta desagradable para la percepción humana. Sin embargo, este seguiría cumpliendo su función, por lo cual se bajó su cantidad." },
       { titulo: "Prueba Almidón de papa", texto: "Pudimos observar que la mezcla que contenía almidón presentaba mucha más resistencia que las demás. No determinamos exactamente a qué se debía esta peculiaridad, pero probablemente esté relacionada con la presencia de amilosa y amilopectina, componentes que forman una red más compacta al secarse." }
     ],
