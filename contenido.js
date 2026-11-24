@@ -107,8 +107,10 @@ window.CONTENIDO = {
     investigacion: {
       titulo: "Investigación científica",
       parrafos: [
-        "Los bioplásticos de almidón se basan en que el almidón, al calentarse en presencia de agua, se gelatiniza y forma una masa que al secarse genera una película. Esa película es frágil por sí sola, por eso se le agrega un plastificante (la glicerina) que le da flexibilidad.",
-        "Nuestro equipo investigó cómo obtener almidón de residuos orgánicos (cáscaras de papa y plátano) y cómo influyen la maicena, el vinagre y la glicerina en la textura, el grosor y la elasticidad del resultado." // ✏️ EDITAR: agrega tus fuentes
+        "Para elaborar el bioplástico Glyflex, se realizó un proceso experimental basado en la observación y el control de variables. Se utilizaron almidón de papa, plátano o maicena, agua, glicerina y vinagre como materiales principales",
+        "Primero, las cáscaras de papa o plátano se trituran y cuelan para obtener una mezcla rica en almidón. En el caso de la maicena, esta se disuelve previamente en agua para evitar la formación de grumos. Luego, el almidón se incorpora poco a poco a un vaso de precipitados que contiene agua, glicerina y vinagre.",
+        "La mezcla se calienta en una placa calefactora con agitador magnético hasta alcanzar aproximadamente 80 °C. Se mantiene esta temperatura durante 15 a 20 minutos, con agitación constante, para favorecer la gelatinización del almidón y la integración de los componentes",
+        "Finalmente, la mezcla se deja enfriar, se vierte sobre una superficie de silicona y se deja secar hasta obtener una lámina biodegradable. Durante el proceso se observaron cambios de color, textura, consistencia y flexibilidad, permitiendo analizar cómo cada ingrediente y condición influye en las propiedades del bioplástico"// ✏️ EDITAR: agrega tus fuentes
       ]
     },
     imagenMateriales: "materiales-horizontal.webp",
@@ -120,12 +122,12 @@ window.CONTENIDO = {
     procesoTitulo: "Proceso",
     /* ✏️ EDITAR: ajusta cada paso a lo que realmente hicieron y agrega cantidades/fotos */
     pasos: [
-      { titulo: "Paso 1", texto: "Lavar y pelar las papas y los plátanos; reservar las cáscaras.", imagen: "Lavar las cascaras.jpg" },
-      { titulo: "Paso 2", texto: "Cocer las cáscaras en agua y triturarlas para extraer el almidón.", imagen: "Triturar las cascaras.jpg" },
+      { titulo: "Paso 1", texto: "Lavar las cáscaras de plátano y/o de papa para eliminar la tierra o cualquier otra basura", imagen: "Lavar las cascaras.jpg" },
+      { titulo: "Paso 2", texto: "Triturar las cáscaras lo más que se pueda para obtener una mezcla mas homogénea.", imagen: "Triturar las cascaras.jpg" },
       { titulo: "Paso 3", texto: "Filtrar la mezcla y dejar reposar hasta separar el almidón del líquido.", imagen: "Doble imagen.jpg" },
       { titulo: "Paso 4", texto: "Mezclar el almidón con agua, maicena, vinagre y glicerina en las proporciones de la receta.", imagen: "Mezclar.jpg" },
-      { titulo: "Paso 5", texto: "Calentar a fuego bajo, removiendo, hasta que la mezcla espese y se vuelva translúcida.", imagen: "Calentar.jpg" },
-      { titulo: "Paso 6", texto: "Extender en una superficie lisa y dejar secar hasta formar la película de bioplástico.", imagen: "Dejar secar 1.jpg" }
+      { titulo: "Paso 5", texto: "Calentar en una Placa Calefactora Con Agitador Magnético y controlar la temperatura.", imagen: "Calentar.jpg" },
+      { titulo: "Paso 6", texto: "Extender en una superficie lisa y dejar secar hasta formar el bioplástico.", imagen: "Dejar secar 1.jpg" }
     ]
   },
 
@@ -133,13 +135,14 @@ window.CONTENIDO = {
   funcionamiento: {
     titulo: "Funcionamiento",
     parrafos: [
-      "GlyFlex funciona como una película flexible que puede darse forma de bolsa o envoltura. Al estar hecha de almidón y glicerina, el material es de origen natural y, al terminar su vida útil, puede descomponerse más rápido que un plástico convencional.", // ✏️ EDITAR
-      "Estas son algunas de las aplicaciones que imaginamos para nuestro biomaterial:"
+      "El prototipo de bioplástico es una lámina fina, flexible y translúcida que se elabora principalmente con maicena, agua, glicerina y vinagre. Tiene una apariencia similar al papel plastificado, pero con una textura un poco más suave y menos brillante. Su color puede variar entre blanco, beige, cafe o un gris claro, dependiendo de la cantidad de maicena y de los ingredientes utilizados.",
+      "La superficie del bioplástico suele ser lisa, aunque puede presentar pequeñas ondulaciones o burbujas si la mezcla no se extendió de manera uniforme. Al secarse, la lámina se vuelve sólida, pero conserva cierta flexibilidad gracias a la glicerina. Esto permite que pueda doblarse sin romperse fácilmente, aunque no resiste demasiada fuerza ni el contacto prolongado con agua.",
+      "Estas son algunas de las aplicaciones que imaginamos para nuestro prototipo:"
     ],
     usos: [
-      { titulo: "Bolsas para viveros", texto: "Contenedores para plantines que pueden plantarse o desecharse con menor impacto." },
-      { titulo: "Empaques para libros", texto: "Envolturas y forros ligeros para libros y cuadernos." },
-      { titulo: "Envases ligeros", texto: "Envolturas para productos de uso cotidiano, en reemplazo del plástico de un solo uso." }
+      { titulo: "Bolsas para viveros", texto: "La bolsa de bioplástico funciona como un contenedor temporal para el plantín, con el tiempo, la bolsa comienza a degradarse de forma natural, permitiendo que las raíces crezcan hacia el suelo sin necesidad de retirar el material, además aporta ciertos componentes que ayudan a la fertilización de la planta como: el carbono orgánico, una mínima cantidad de minerales K, Mg, Ca y materia orgánica." },
+      { titulo: "Empaques para libros", texto: "El bioplástico puede utilizarse para elaborar empaques ecológicos destinados a proteger libros durante su transporte, almacenamiento o venta. Estos empaques pueden servir como fundas, sobres, bolsas o cubiertas protectoras que ayudan a evitar el polvo, la humedad ligera y los golpes menores." },
+      { titulo: "Envases ligeros", texto: "El bioplástico puede utilizarse para elaborar envases ligeros y envolturas destinados a productos de uso cotidiano, como una alternativa al plástico de un solo uso. Estos envases pueden servir para guardar artículos pequeños, útiles escolares, productos de higiene personal o elementos decorativos. " }
     ]
   },
 
@@ -157,11 +160,13 @@ window.CONTENIDO = {
     dificultadesTitulo: "Nuestras dificultades y aprendizajes",
     dificultades: [   // ✏️ EDITAR
       "Lograr la proporción justa de ingredientes: la mezcla podía quedar muy quebradiza o muy pegajosa.",
-      "Controlar el tiempo de secado y la temperatura."
+      "Controlar el tiempo de secado y la temperatura.",
+      "Alcanzar mayor rigidez y firmeza: al colar completamente la mezcla y eliminar la fibra, aún buscamos una formulación más sólida y resistente."
     ],
     aprendizajes: [   // ✏️ EDITAR
-      "Cada ingrediente cumple una función: ajustar sus cantidades cambia las propiedades del material.",
-      "Los residuos orgánicos pueden convertirse en un recurso útil."
+      "Cada ingrediente cumple una función crítica: la glicerina resultó ser una materia prima insustituible como plastificante para dar flexibilidad, y ajustar cada cantidad transforma el material.",
+      "Los residuos orgánicos son un recurso valioso con potencial real de aprovechamiento.",
+      "Comprobar en el laboratorio lo que se diseña en papel demuestra que la ciencia es experimentación activa; aplicar el método científico permite identificar falencias y mejorar el prototipo en cada iteración."
     ]
   },
 
@@ -170,10 +175,10 @@ window.CONTENIDO = {
     titulo: "Impacto STEM+",
     /* ✏️ EDITAR: explica cómo participa cada área en tu proyecto */
     areas: [
-      { letra: "S", nombre: "Science", texto: "Investigación sobre el almidón, el pH y la biodegradación de materiales." },
-      { letra: "T", nombre: "Technology", texto: "Uso de herramientas y procesos para elaborar y probar el biomaterial." },
-      { letra: "E", nombre: "Engineering", texto: "Diseño y mejora del prototipo para distintos usos (bolsas, empaques)." },
-      { letra: "M", nombre: "Mathematics", texto: "Medición y proporciones de los ingredientes en cada prueba." }
+      { letra: "S", nombre: "Science", texto: "Uso del método científico. Observación del comportamiento de los ingredientes. Investigación de la contaminación por plásticos y los microplásticos." },
+      { letra: "T", nombre: "Technology", texto: "Manejo de la PCCAM y distintos instrumentos del laboratorio.  Utilización de la IA como una  herramienta de apoyo. Herramientas electrónicas para documentar, registrar y preparar el material para presentarnos." },
+      { letra: "E", nombre: "Engineering", texto: "Diseñar, construir, probar y mejorar la fórmula del prototipo, analizando su estructura." },
+      { letra: "M", nombre: "Mathematics", texto: "Cálculo de presupuesto, cantidades, proporciones temperatura, masas y ensayos comparativos." }
     ]
   },
 
@@ -182,10 +187,10 @@ window.CONTENIDO = {
     titulo: "¿Quiénes somos?",
     texto: "Somos estudiantes comprometidos con el cuidado del medio ambiente. Participamos en las Olimpiadas STEM+ Cochabamba 2026 con Bio-X, un bioplástico hecho con residuos orgánicos.", // ✏️ EDITAR
     integrantes: [     // ✏️ EDITAR: nombres y fotos (imagen: "nombre.jpg")
-      { nombre: "Matias Vargas", rol: "4to A Secundaria", imagen: "Matias.jpg" },
-      { nombre: "Nayara Ramirez", rol: "4to A Secundaria", imagen: "Nayara.jpg" },
-      { nombre: "Isabella Pozo", rol: "4to A Secundaria", imagen: "Isabella.jpg" },
-      { nombre: "Maria Peredo", rol: "4to A Secundaria", imagen: "Maria.jpg" },
+      { nombre: "Matias Vargas", rol: "Estudiante de 4to A", imagen: "Matias.jpg" },
+      { nombre: "Nayara Ramirez", rol: "Estudiante de 4to A", imagen: "Nayara.jpg" },
+      { nombre: "Isabella Pozo", rol: "Estudiante de 4to A", imagen: "Isabella.jpg" },
+      { nombre: "Maria Peredo", rol: "Estudiante de 4to A", imagen: "Maria.jpg" },
       { nombre: "Ing. Ivette", rol: "Tutora", imagen: "Ivette.jpg" }
     ],
     galeriaTitulo: "Galería",
