@@ -160,11 +160,12 @@ window.CONTENIDO = {
     dificultadesTitulo: "Nuestras dificultades y aprendizajes",
     dificultades: [   // ✏️ EDITAR
       "Lograr la proporción justa de ingredientes: la mezcla podía quedar muy quebradiza o muy pegajosa.",
-      "Controlar el tiempo de secado y la temperatura.",
-      "Alcanzar mayor rigidez y firmeza: al colar completamente la mezcla y eliminar la fibra, aún buscamos una formulación más sólida y resistente."
+      "Hallar una forma de poder secar la mexcla sin que se quiebre, controlando el tiempo y la temperatura.",
+      "Encontrar una formulación con las cantidades adecuadas para que resulte con la mayor calidad, resistencia y flexibilidad",
+      "Realizar controles de calidad con respecto a la resistencia, elasticidad, durabilidad,etc. Asi como determinar el tiempo de degradación en diferentes suelos o condiciones ambientales."
     ],
     aprendizajes: [   // ✏️ EDITAR
-      "Cada ingrediente cumple una función crítica: la glicerina resultó ser una materia prima insustituible como plastificante para dar flexibilidad, y ajustar cada cantidad transforma el material.",
+      "La glicerina no puede sustituirse porque es un plastificante natural aportando flexibilidad.",
       "Los residuos orgánicos son un recurso valioso con potencial real de aprovechamiento.",
       "Comprobar en el laboratorio lo que se diseña en papel demuestra que la ciencia es experimentación activa; aplicar el método científico permite identificar falencias y mejorar el prototipo en cada iteración."
     ]
