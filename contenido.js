@@ -160,14 +160,14 @@ window.CONTENIDO = {
     dificultadesTitulo: "Nuestras dificultades y aprendizajes",
     dificultades: [   // ✏️ EDITAR
       "Lograr la proporción justa de ingredientes: la mezcla podía quedar muy quebradiza o muy pegajosa.",
-      "Hallar una forma de poder secar la mexcla sin que se quiebre, controlando el tiempo y la temperatura.",
+      "Hallar una forma de poder secar la mezcla sin que se quiebre, controlando el tiempo y la temperatura.",
       "Encontrar una formulación con las cantidades adecuadas para que resulte con la mayor calidad, resistencia y flexibilidad",
       "Realizar controles de calidad con respecto a la resistencia, elasticidad, durabilidad,etc. Asi como determinar el tiempo de degradación en diferentes suelos o condiciones ambientales."
     ],
     aprendizajes: [   // ✏️ EDITAR
-      "La glicerina no puede sustituirse porque es un plastificante natural aportando flexibilidad.",
+      "La glicerina no puede sustituirse porque es un plastificante natural que aporta flexibilidad a GlyFlex.",
       "Los residuos orgánicos son un recurso valioso con potencial real de aprovechamiento.",
-      "Comprobar en el laboratorio lo que se diseña en papel demuestra que la ciencia es experimentación activa; aplicar el método científico permite identificar falencias y mejorar el prototipo en cada iteración."
+      "Demuestrar que es importante aplicar la experimentación para identificar falencias y mejorar el prototipo en cada prueba."
     ]
   },
 
