@@ -149,13 +149,13 @@ window.CONTENIDO = {
   /* ---------- 6. PRUEBAS Y RESULTADOS ---------- */
   pruebas: {
     titulo: "Pruebas y resultados",
-    intro: "Con las diferentes pruebas que realizamos obtuvimos biomateriales con distintas consistencias, que pueden aplicarse en diferentes áreas.",
+    intro: "Con las diferentes pruebas que realizamos obtuvimos diferentes resultados.",
     /* ✏️ EDITAR: describe el resultado real de cada prueba */
     resultados: [
-      { titulo: "Prueba 1", texto: "Describe aquí la consistencia obtenida (flexible, rígida, pegajosa...)." },
-      { titulo: "Prueba 2", texto: "Describe aquí la consistencia obtenida." },
-      { titulo: "Prueba 3", texto: "Describe aquí la consistencia obtenida." },
-      { titulo: "Prueba 4", texto: "Describe aquí la consistencia obtenida." }
+      { titulo: "Prueba Gelatina como sustituto de la Glicerina", texto: "Pudimos observar que la mezcla tomó un color rojizo debido a la coloración de la propia gelatina. También observamos que la mezcla no se plastificó correctamente; por lo tanto, determinamos que la glicerina no tiene un sustituto viable." },
+      { titulo: "Prueba Maicena", texto: "Describe aquí la consistencia obtenida." },
+      { titulo: "Prueba Mayor cantidad de vinagre", texto: "Observamos que una cantidad mayor de vinagre produce un olor muy característico del vinagre, el cual resulta desagradable para la percepción humana. Sin embargo, este seguiría cumpliendo su función, por lo cual se bajó su cantidad." },
+      { titulo: "Prueba Almidón de papa", texto: "Pudimos observar que la mezcla que contenía almidón presentaba mucha más resistencia que las demás. No determinamos exactamente a qué se debía esta peculiaridad, pero probablemente esté relacionada con la presencia de amilosa y amilopectina, componentes que forman una red más compacta al secarse." }
     ],
     dificultadesTitulo: "Nuestras dificultades y aprendizajes",
     dificultades: [   // ✏️ EDITAR
@@ -167,7 +167,8 @@ window.CONTENIDO = {
     aprendizajes: [   // ✏️ EDITAR
       "La glicerina no puede sustituirse porque es un plastificante natural que aporta flexibilidad a GlyFlex.",
       "Los residuos orgánicos son un recurso valioso con potencial real de aprovechamiento.",
-      "Demuestrar que es importante aplicar la experimentación para identificar falencias y mejorar el prototipo en cada prueba."
+      "Demuestrar que es importante aplicar la experimentación para identificar falencias y mejorar el prototipo en cada prueba.",
+      "Conocer la importancia que conlleva un buen trabajo en equipo para este tipo de actividades ya que eso nos permitió salir adelante con nuestro proyecto."
     ]
   },
 
@@ -192,13 +193,23 @@ window.CONTENIDO = {
       { nombre: "Nayara Ramirez", rol: "Estudiante de 4to A", imagen: "Nayara.jpg" },
       { nombre: "Isabella Pozo", rol: "Estudiante de 4to A", imagen: "Isabella.jpg" },
       { nombre: "Maria Peredo", rol: "Estudiante de 4to A", imagen: "Maria.jpg" },
-      { nombre: "Ing. Ivette", rol: "Tutora", imagen: "Ivette.jpg" }
+      { nombre: "Ing. Ivette", rol: "Mentora", imagen: "Ivette.jpg" }
     ],
     galeriaTitulo: "Galería",
     galeria: [         // Agrega más fotos copiándolas en img/ y sumando una línea
       { imagen: "materiales-vertical.webp", alt: "Maicena, glicerina y vinagre sobre la mesa de trabajo" },
       { imagen: "laboratorio.webp", alt: "Material de laboratorio" },
-      { imagen: "contaminacion.webp", alt: "Contaminación por plásticos" }
+      { imagen: "contaminacion.webp", alt: "Contaminación por plásticos" },
+      { imagen: "silicona.jpg", alt: "" },
+      { imagen: "UPB LAB.jpg", alt: "" },
+      { imagen: "Vaso de presipitado.jpg", alt: "" },
+      { imagen: "Colador 2.jpg", alt: "" },
+      { imagen: "Prueba plantin.jpg", alt: "" },
+      { imagen: "Sacar el bioplástico.jpg", alt: "" },
+      { imagen: "Platito.jpg", alt: "" },
+      { imagen: "Bioplástico azul.jpg", alt: "" },
+      { imagen: "Bandeja 2.jpg", alt: "" },
+      { imagen: "Laboratorio.jpg", alt: "" }
     ]
   }
 };
